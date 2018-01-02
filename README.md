@@ -47,6 +47,6 @@
   </li>
   <li>
     <p>O arquivo "Comandos.sql" possui o banco de dados e tabelas, com 
-    alguns dados iniciais, para ser utilizado no projeto afim de manipular estes dados.</p>
+    alguns dados iniciais, para ser utilizado no projeto a fim de manipular estes dados.</p>
   </li>
 </ul>
