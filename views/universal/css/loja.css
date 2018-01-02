@@ -1,0 +1,16 @@
+body {
+    padding: 50px;
+}
+
+.principal {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.error404 {
+    font-family: Candal;
+    background: url('https://wallpaperscraft.com/image/desert_drought_dead_lake_stone_mountains_46692_3840x2400.jpg');
+    background-size: cover;
+    filter: sepia(20%);
+    margin: 0;
+}
