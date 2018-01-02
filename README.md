@@ -22,9 +22,10 @@
         Não foi muito explorado pois neste projeto o intuito seria a aplicação back-end.</p>
   </li>
   <li>
-    <p><a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a></p> -Utilizado para parte de contato. 
+    <p><a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a> -Utilizado para parte de contato. 
             <br/> Obs. 1: Alterar os campos de login e senha em "../controllers/envia-contato.php", utilizando suas credenciais.
             <br/> Obs. 2: Verificar autorizações relacionadas a sua conta de e-mail.
+      </p>
   </li>
   <li>
     <p><a href="http://md5encryption.com/" target="_blank">MD5 Encryption</a> - 
@@ -40,6 +41,9 @@
   <li>
     <p>No site temos as funcionalidades básicas de um sistema web, como realizar login, cadastro, atualização, 
     remoção e listagem de dados de um determinado produto.</p>
+  </li>
+  <li>
+    <p>O projeto foi organizado no padrão MVC - 3 Labels: models, views e controllers.</p>
   </li>
   <li>
     <p>O arquivo "Comandos.sql" possui o banco de dados e tabelas, com 
