@@ -1,5 +1,5 @@
 <h3><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Mini-Projeto Sistema Web - Loja</h3>
-<h4><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Projeto simples afim de fixar fundamentos de PHP e MySql na prática.</h4>
+<h4><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Projeto simples a fim de fixar fundamentos de PHP e MySql na prática.</h4>
 <h5><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Foram utilizados nesse projeto:</h5>
 
 <ul>
@@ -22,8 +22,7 @@
         Não foi muito explorado pois neste projeto o intuito seria a aplicação back-end.</p>
   </li>
   <li>
-    <p><a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a></p> -
-        Utilizado para parte de contato. 
+    <p><a href="https://github.com/PHPMailer/PHPMailer" target="_blank">PHPMailer</a></p> -Utilizado para parte de contato. 
             <br/> Obs. 1: Alterar os campos de login e senha em "../controllers/envia-contato.php", utilizando suas credenciais.
             <br/> Obs. 2: Verificar autorizações relacionadas a sua conta de e-mail.
   </li>
