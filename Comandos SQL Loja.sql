@@ -37,7 +37,7 @@ senha varchar(255),
 UNIQUE KEY (`id`)
 ) ENGINE = InnoDB DEFAULT CHARSET= Latin1;
 
-insert into usuarios (email, senha) values ("gugamelo54@gmail.com", "e10adc3949ba59abbe56e057f20f883e");
+insert into usuarios (email, senha) values ("exemplo@gmail.com", "e10adc3949ba59abbe56e057f20f883e"); //senha: 123456 
 
 
 select * from produtos;
