@@ -1,5 +1,6 @@
 <h3><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Mini-Projeto Sistema Web - Loja</h3>
 
+<h4>Site para acesso:
 <ul>
   <li>
     <p><a href="https://gugamelodevphp.000webhostapp.com" target="_blank">Site loja!</a></p>
@@ -8,8 +9,9 @@
     <p>Para acessá-lo, basta colocar como Login: <b>exemplo@gmail.com</b> e Senha: <b>123456</b></p>
   </li>
 </ul>
+</h4>
 
-<h4><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Projeto simples a fim de fixar fundamentos de PHP e MySql na prática.</h4>
+<h3><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Projeto simples a fim de fixar fundamentos de PHP e MySql na prática.</h4>
 <h5><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Foram utilizados nesse projeto:</h5>
 
 <ul>
