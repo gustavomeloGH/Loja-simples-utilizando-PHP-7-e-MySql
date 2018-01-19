@@ -1,6 +1,7 @@
 <h3><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Mini-Projeto Sistema Web - Loja</h3>
 
-<h4>Site para acesso:
+<h5><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Site para acesso:</h5>
+<h4>
 <ul>
   <li>
     <p><a href="https://gugamelodevphp.000webhostapp.com" target="_blank">Site loja!</a></p>
